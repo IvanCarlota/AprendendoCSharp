@@ -1,0 +1,7 @@
+C:\Lab\CSharp\source\AprendendoCSharp\AprendendoCSharp\1OlaMundo\bin\Debug\1OlaMundo.exe.config
+C:\Lab\CSharp\source\AprendendoCSharp\AprendendoCSharp\1OlaMundo\bin\Debug\1OlaMundo.exe
+C:\Lab\CSharp\source\AprendendoCSharp\AprendendoCSharp\1OlaMundo\bin\Debug\1OlaMundo.pdb
+C:\Lab\CSharp\source\AprendendoCSharp\AprendendoCSharp\1OlaMundo\obj\Debug\1OlaMundo.csprojAssemblyReference.cache
+C:\Lab\CSharp\source\AprendendoCSharp\AprendendoCSharp\1OlaMundo\obj\Debug\1OlaMundo.csproj.CoreCompileInputs.cache
+C:\Lab\CSharp\source\AprendendoCSharp\AprendendoCSharp\1OlaMundo\obj\Debug\1OlaMundo.exe
+C:\Lab\CSharp\source\AprendendoCSharp\AprendendoCSharp\1OlaMundo\obj\Debug\1OlaMundo.pdb
