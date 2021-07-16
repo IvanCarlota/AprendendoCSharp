@@ -1,0 +1,7 @@
+C:\Lab\CSharp\source\AprendendoCSharp\4ConversoesEOutrosTiposNumericos\bin\Debug\4ConversoesEOutrosTiposNumericos.exe.config
+C:\Lab\CSharp\source\AprendendoCSharp\4ConversoesEOutrosTiposNumericos\bin\Debug\4ConversoesEOutrosTiposNumericos.exe
+C:\Lab\CSharp\source\AprendendoCSharp\4ConversoesEOutrosTiposNumericos\bin\Debug\4ConversoesEOutrosTiposNumericos.pdb
+C:\Lab\CSharp\source\AprendendoCSharp\4ConversoesEOutrosTiposNumericos\obj\Debug\4ConversoesEOutrosTiposNumericos.csprojAssemblyReference.cache
+C:\Lab\CSharp\source\AprendendoCSharp\4ConversoesEOutrosTiposNumericos\obj\Debug\4ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Lab\CSharp\source\AprendendoCSharp\4ConversoesEOutrosTiposNumericos\obj\Debug\4ConversoesEOutrosTiposNumericos.exe
+C:\Lab\CSharp\source\AprendendoCSharp\4ConversoesEOutrosTiposNumericos\obj\Debug\4ConversoesEOutrosTiposNumericos.pdb

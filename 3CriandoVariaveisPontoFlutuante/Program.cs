@@ -10,7 +10,7 @@ namespace _3CriandoVariaveisPontoFlutuante
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando a o projeto 2 - Criando variaveis");
+            Console.WriteLine("Executando o projeto 3 - Criando variaveis");
 
             double salario;
             String nome;
