@@ -1,0 +1,6 @@
+C:\Lab\CSharp\source\AprendendoCSharp\6concatenacao\obj\Debug\6concatenacao.csproj.CoreCompileInputs.cache
+C:\Lab\CSharp\source\AprendendoCSharp\6concatenacao\bin\Debug\6concatenacao.exe.config
+C:\Lab\CSharp\source\AprendendoCSharp\6concatenacao\bin\Debug\6concatenacao.exe
+C:\Lab\CSharp\source\AprendendoCSharp\6concatenacao\bin\Debug\6concatenacao.pdb
+C:\Lab\CSharp\source\AprendendoCSharp\6concatenacao\obj\Debug\6concatenacao.exe
+C:\Lab\CSharp\source\AprendendoCSharp\6concatenacao\obj\Debug\6concatenacao.pdb
